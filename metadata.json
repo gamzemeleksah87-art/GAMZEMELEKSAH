@@ -1,0 +1,6 @@
+{
+  "name": "Vergi Mevzuatı İnfografik Slayt Sunumu",
+  "description": "100 Altın Soru (KVK, 6183 AATUHK, KDV, ÖTV, VUK) için adım adım çözümlü interaktif infografik görsel slayt sunumu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
